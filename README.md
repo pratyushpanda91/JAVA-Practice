@@ -1,1 +1,1 @@
-# JAVA-Practice
+# JAVA-Course-Practice
