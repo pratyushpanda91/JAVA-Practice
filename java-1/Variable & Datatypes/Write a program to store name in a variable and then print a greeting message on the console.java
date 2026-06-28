@@ -3,6 +3,7 @@ import java.util.*;
 public class Solution {
 
     public static void main(String args[]) {
+        //Greet on console
         // Write a program to store name in a variable and
         // then print a greeting message on the console.
 
