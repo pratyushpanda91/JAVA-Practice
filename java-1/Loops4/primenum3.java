@@ -14,6 +14,7 @@ public class Solution {
         }return true;
     }
 
+    
     public static void main(String args[]) {
         int n = 3;
         assert checkPrime(n) == true : "Expect true for n = 3";
